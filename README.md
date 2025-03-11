@@ -1,4 +1,4 @@
-#Project name
+#WineColorClassifier
 
 This project performs the classification of wine color (red or white) based on the chemical characteristics of wine sample data. Using the ExtraTreesClassifier algorithm from Scikit-Learn, the model predicts the wine color from chemical data such as pH, acidity, and other compounds present in the wine.
 
